@@ -1,7 +1,5 @@
 # Secure-Computing-Project
 
-Student Name  | Student ID
-------------- | -------------
 Ali Zolfaqari  | 94171021
 
 :الگوریتم های بررسی شده در این پروژه به شرح زیر میباشند
